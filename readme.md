@@ -1,4 +1,4 @@
-### Netflix Desktop App
+## Netflix Desktop App
 
 Uygulama iki farklı arayüzden oluşuyor: 
 
@@ -6,13 +6,19 @@ Uygulama iki farklı arayüzden oluşuyor:
 
 ● Kullanıcın içerik arayabileceği ve izleyebileceği arayüz.
 
-## Kullanıcı İçerik Arayüzü
+### Kullanıcı İçerik Arayüzü
 
 <p float="center">
-  <img  src="icerik_arayuz.png" widht="300" height=350" />
+  <img  src="icerik_arayuz.png" widht="400" height="550"/>
 </p>
 
-## DB UML Diagramı
+### İçeriği Temsili Bir Ekran ve Timer ile İzleme,Puanlama
+
+<p float="center">
+  <img  src="icerik_izleme.png" widht="400" height=200"/>
+</p>
+                                                       
+### DB UML Diagramı
 
 <p float="center">
   <img  src="uml.png" widht="500" height="500" />
